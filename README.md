@@ -24,11 +24,9 @@ HUD:
     The only difference in these two attacks is the cost of moves and the damage.  
     The only way for the player to refill their action gauge is by ending their turn.  
     For the player to know if they are getting ready to attack or move, The tiles will be colored accordingly: Blue means movement, and Red means an attack.  
-
     <br>
-    
-    Once the player ends their turn, the enemy is able to perform their actions.  
-    Currently the enemy only has the option to move and to attck an adjacent player.  
+    Once the player has ended their turn the enemy will start theirs.  
+    Currently the enemy is only capable of attacking an adjacent player and moving.  
     
 
 Controls:  
